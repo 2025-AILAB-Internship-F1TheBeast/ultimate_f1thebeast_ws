@@ -4,3 +4,6 @@
 [submodule "teleop-tools"]
 	path = teleop-tools
 	url = https://github.com/2025-AILAB-Internship-F1TheBeast/teleop-tools.git
+[submodule "range_libc"]
+	path = range_libc
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/range_libc.git
