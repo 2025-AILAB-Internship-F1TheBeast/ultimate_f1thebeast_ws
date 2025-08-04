@@ -1,0 +1,6 @@
+[submodule "f1thebeast_ws"]
+	path = f1thebeast_ws
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/f1thebeast_ws.git
+[submodule "teleop-tools"]
+	path = teleop-tools
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/teleop-tools.git
