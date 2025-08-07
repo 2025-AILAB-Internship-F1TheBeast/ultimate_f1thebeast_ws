@@ -7,3 +7,6 @@
 [submodule "range_libc"]
 	path = range_libc
 	url = https://github.com/2025-AILAB-Internship-F1TheBeast/range_libc.git
+[submodule "f1tenth_base_setup"]
+	path = f1tenth_base_setup
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/f1tenth_base_setup.git
