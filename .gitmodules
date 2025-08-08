@@ -10,3 +10,6 @@
 [submodule "f1tenth_base_setup"]
 	path = f1tenth_base_setup
 	url = https://github.com/2025-AILAB-Internship-F1TheBeast/f1tenth_base_setup.git
+[submodule "ekf_slam"]
+	path = ekf_slam
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/ekf_slam.git
