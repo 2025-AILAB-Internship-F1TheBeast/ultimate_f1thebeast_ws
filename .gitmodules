@@ -13,3 +13,6 @@
 [submodule "ekf_slam"]
 	path = ekf_slam
 	url = https://github.com/2025-AILAB-Internship-F1TheBeast/ekf_slam.git
+[submodule "minimum_curvature_global_planner"]
+	path = minimum_curvature_global_planner
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/minimum_curvature_global_planner.git
